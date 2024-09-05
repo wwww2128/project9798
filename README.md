@@ -2,9 +2,12 @@
 재난관리시스템 프로젝트
 
 시스템 플로우 차트
+![image](https://github.com/user-attachments/assets/2956eddb-4add-44d2-a862-47f06cc163e3)
 
-![image](https://github.com/user-attachments/assets/12d8ce6a-c899-4e33-afbc-95ffd0238c8f)
+
+시스템구성
+![image](https://github.com/user-attachments/assets/a502596d-792d-4b4c-9cf5-dfc88cc44212)
 
 
-구성요소
-![image](https://github.com/user-attachments/assets/bcc0397f-3e73-46d1-acd6-bec3c359e9c0)
+기능
+![image](https://github.com/user-attachments/assets/2e0539e7-e12b-4567-a395-04969785fb1c)
